@@ -13,16 +13,14 @@ function App() {
 
   const [isLogged, setLogin] = useState(false);
 
-  const handleFormChange = (event) => {
-    const { name, value } = event.target;
-
-    setUser({ ...user, [name]: value });
+  const login = (data) => {
+    setUser(data);
+    setLogin(true);
   };
 
-  const login = () => setLogin(true);
   return (
     <div className="App font-sans flex p-4 justify-center	">
-      {!isLogged && <Card handleFormChange={handleFormChange} login={login} />}
+      {!isLogged && <Card login={login} />}
       {isLogged && <LoggedPage user={user} />}
     </div>
   );
