@@ -1,9 +1,10 @@
 import "./App.css";
+import Card from "./Card";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello guys</h1>
+    <div className="App font-sans flex p-4 justify-center	">
+      <Card />
     </div>
   );
 }

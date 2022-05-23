@@ -1,3 +1,18 @@
 .App {
   text-align: center;
 }
+
+.Card {
+  width: 400px;
+  height: 350px;
+}
+
+.Card > form {
+  height: 250px;
+}
+
+.Card > form > input {
+  width: 200px;
+  height: 55px;
+  border-radius: 10px;
+}
