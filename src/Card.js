@@ -13,21 +13,25 @@ const Card = ({ login }) => {
           type="text"
           name="name"
           placeholder="Mario"
-          {...register("name")}
+          {...register("name", { required: true })}
         />
         <input
           type="text"
           name="surname"
           placeholder="Rossi"
-          {...register("surname")}
+          {...register("surname", { required: true })}
         />
         <input
           type="email"
           name="email"
           placeholder="mariorossi@mail.it"
-          {...register("email")}
+          {...register("email", { required: true })}
         />
-        <input type="date" name="birthday" {...register("birthday")} />
+        <input
+          type="date"
+          name="birthday"
+          {...register("birthday", { required: true })}
+        />
         <button type="submit" className="bg-cyan-700 text-white rounded p-2">
           Submit
         </button>
