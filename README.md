@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- [ ] add library feauture (required, error, ect)
+- [ ] add redux library
+
 ## Available Scripts
 
 In the project directory, you can run:
