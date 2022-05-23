@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Forms 🧾
+In questa repository trovate un po' di esempi su come gestire i Form con React, nei vari branch troverete sia come gestirli in maniera basilare che come gestirli tramite una semplice libreria. Troviamo anche come andare a gestire un form di registrazione in questo caso con Redux. <br/>
+Comunque la documentazione di React resta completissima, specialmente per quanto riguarda la questione dei Forms: https://it.reactjs.org/docs/forms.html
 
 ## Available Scripts
 
