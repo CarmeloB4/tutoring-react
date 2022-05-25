@@ -1,5 +1,5 @@
 # React Forms 🧾
-In questa repository trovate un po' di esempi su come gestire i Form con React, nei vari branch troverete sia come gestirli in maniera basilare che come gestirli tramite una semplice libreria. Troviamo anche come andare a gestire un form di registrazione in questo caso con Redux. <br/>
+In questa repository trovate un po' di esempi su come gestire i Form con React, nei vari branch troverete sia come gestirli in maniera basilare che come gestirli tramite una semplice libreria. Più avanti aggiungerò anche come andare a gestire un form di registrazione in questo caso con Redux. <br/>
 Comunque la documentazione di React resta completissima, specialmente per quanto riguarda la questione dei Forms: https://it.reactjs.org/docs/forms.html
 
 ## Available Scripts
