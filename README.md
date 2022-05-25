@@ -1,9 +1,7 @@
-# Getting Started with Create React App
+# React Forms with library 🎲🧾
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-- [ ] add library feauture (required, error, ect)
-- [ ] add redux library
+In questo branch abbiamo lavorato con questa libreria: https://react-hook-form.com/ <br/>
+L'utilizzo è molto semplice basta seguire il tutorial, oltre al fatto che possiamo gestire tantissimi casi (inserire pattern, specificare lunghezza minima e massima ect)
 
 ## Available Scripts
 
